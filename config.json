@@ -2,13 +2,13 @@
     "ip": "mdma_gc.aternos.me",
     "port": 15303,
     "name": "NotLiza",
-    "auto-night-skip": "false",
+    "auto-night-skip": "true",
     "join-msg": "Morisson",
-    "join-msg-on": "true",
+    "join-msg-on": "false",
     "custom-message-enabled": "false",
     "custom-message-1": "subscribe to LION BOY",
     "custom-message-2": "subscribe to LION BOY",
     "login-enabled": "false",
-    "register-cmd": "/register 12345678 12345678",
-    "login-cmd": "/login 12345678"
+    "register-cmd": "/register Morisson Morisson",
+    "login-cmd": "/login Morisson"
 }
