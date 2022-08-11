@@ -3,11 +3,11 @@
     "port": 15303,
     "name": "NotLiza",
     "auto-night-skip": "false",
-    "join-msg": "Morisson",
-    "join-msg-on": "false",
+    "join-msg": "/login Morisson",
+    "join-msg-on": "true",
     "custom-message-enabled": "false",
     "custom-message-1": "subscribe to LION BOY",
     "custom-message-2": "subscribe to LION BOY",
-    "login-enabled": "true",
+    "login-enabled": "false",
     "login-cmd": "/login Morisson"
 }
